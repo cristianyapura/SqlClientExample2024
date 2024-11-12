@@ -7,7 +7,7 @@ class Program
     {
         string connectionString = "Server=localhost;Database=ExampleDb;User Id=cyapura;Password=123456;TrustServerCertificate=True";
         string query = "SELECT CustomerId, Name, Email FROM Customers";
-
+        Console.WriteLine("Ejemplo Nueva rama git");
         using (SqlConnection connection = new SqlConnection(connectionString))
         {
             SqlCommand command = new SqlCommand(query, connection);
