@@ -53,3 +53,4 @@
 /home/cristian/Pryectos-Net/SqlClientExample/obj/Debug/net8.0/SqlClientExample.pdb
 /home/cristian/Pryectos-Net/SqlClientExample/obj/Debug/net8.0/SqlClientExample.genruntimeconfig.cache
 /home/cristian/Pryectos-Net/SqlClientExample/obj/Debug/net8.0/ref/SqlClientExample.dll
+/home/cristian/Pryectos-Net/SqlClientExample/obj/Debug/net8.0/SqlClientExample.sourcelink.json
